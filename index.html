@@ -23,6 +23,7 @@
   </div>
 
   <script>
+  window.addEventListener('DOMContentLoaded', () => {
     let dictionary = {};
     let reverseDictionary = {};
 
@@ -54,6 +55,11 @@
 
       document.getElementById('outputText').value = translated.join(' ');
     }
-  </script>
+
+    // Attach event listeners instead of using oninput in HTML
+    document.getElementById('inputText').addEventListener('input', translate);
+    document.getElementById('direction').addEventListener('change', translate);
+  });
+</script>
 </body>
 </html>
