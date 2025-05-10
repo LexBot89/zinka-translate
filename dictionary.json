@@ -1,62 +1,139 @@
 {
   "ahhp": "Ah",
-  "amipip": "admin",
+  "amipip": "leader",
   "appa": "yes",
   "asip": "alright",
   "becausip": "because",
   "best": "best",
+
   "bipbop": "can",
+  "his-bipbop": "could",
+  "bipbop-viris": "will-can",
+  "bipbop-zik": "ability",
+
   "birp": "add",
+  "his-birp": "added",
+  "birp-viris": "will-add",
+  "birp-zik": "addition",
+
   "dop": "and",
   "earthip": "earth",
+
   "explodip": "explode",
+  "his-explodip": "exploded",
+  "explodip-viris": "will-explode",
+  "explodip-zik": "explosion",
+
   "firp": "kind",
-  "floripzug": "receive",
+
+  "floripzug": "get",
+  "his-floripzug": "got",
+  "floripzug-viris": "will-get",
+  "floripzug-zik": "acquisition",
+
   "fodstip": "food",
   "fonka": "nonsense",
   "foodstip": "food",
+
   "fopak": "fool",
+  "fopak-zik": "fool",
   "friend": "friend",
+  "friend-zik": "friend",
+
   "gorpa": "pause",
+  "his-gorpa": "paused",
+  "gorpa-viris": "will-pause",
+  "gorpa-zik": "pause",
+
   "gragaa": "bad",
+  "gragaa-zik": "badness",
   "harip": "hello",
   "humanas": "human",
+
   "kankaa": "fast",
   "kazaa": "good",
+  "kazaa-zik": "goodness",
+
   "kepler": "kepler",
   "kippip": "dead",
   "ku": "you",
   "kugip": "you",
+
   "minitip": "minute",
   "mip": "I",
   "musip": "must",
   "nidus": "need",
   "noopip": "no",
-  "oopip": " maybe",
+  "okik": "okay",
+  "oopip": "maybe",
+
   "Osamip": "Osama",
   "plobplaplup": "today",
   "proplip": "problem",
   "prreep": "expressive",
-  "sip": "is,",
+  "prreep-zik": "expression",
+
+  "sip": "is",
+  "his-sip": "was"
+  "sip-viris": "will be"
+  "sip-zik": "existence"
   "skibipip": "suspicious",
+  "skibipip-zik": "suspect",
+
   "sprechip": "speak",
+  "his-sprechip": "spoke",
+  "sprechip-viris": "will-speak",
+  "sprechip-zik": "speech",
+
   "tip": "truly",
-  "understandip": "understood",
+  "understandip": "understand",
+  "his-understandip": "understood",
+  "understandip-viris": "will-understand",
+  "understandip-zik": "understanding",
+
   "varpa": "wait",
+  "his-varpa": "waited",
+  "varpa-viris": "will-wait",
+  "varpa-zik": "wait",
+
   "vorp": "summon",
+  "his-vorp": "summoned",
+  "vorp-viris": "will-summon",
+  "vorp-zik": "summons",
+
   "warp": "warp",
+  "his-warp": "warped",
+  "warp-viris": "will-warp",
+  "warp-zik": "warp",
+
   "welcopreep": "welcome",
   "whatip": "what",
   "wip": "we",
   "wirp": "join",
+  "his-wirp": "joined",
+  "wirp-viris": "will-join",
+  "wirp-zik": "junction",
+
   "worditip": "word",
   "yip": "please",
   "yipip": "yay",
+
   "zieebip": "eat",
+  "his-zieebip": "ate",
+  "zieebip-viris": "will-eat",
+  "zieebip-zik": "meal",
+  "zerp": "to"
   "zinka": "are",
   "zip": "it",
   "zoop": "switch",
+  "his-zoop": "switched",
+  "zoop-viris": "will-switch",
+  "zoop-zik": "switch",
+
   "zorpak": "weirdo",
+  "zorpak-zik": "weirdo",
+
   "zupp": "hmm",
-  "zuppp": "hmmm"
+  "zuppp": "hmmm",
+  "bigi": "big"
 }
