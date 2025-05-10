@@ -1,0 +1,2 @@
+# zinka-translate
+Zinka translator
