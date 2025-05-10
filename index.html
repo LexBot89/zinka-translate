@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <title>Fictional Language Translator</title>
+</head>
+<body>
+  <div class="container">
+    <div class="title"><h1><span style="color:#57aa6b">Zinka</span> Translate</h1></div>
+    <div class="header">
+      <select id="direction" onchange="translate()">
+        <option value="fictional-to-english">Zinka → English</option>
+        <option value="english-to-fictional">English → Zinka</option>
+      </select>
+    </div>
+
+    <div class="translator">
+      <textarea id="inputText" placeholder="Type here..." oninput="translate()"></textarea>
+      <textarea id="outputText" placeholder="Translation will appear here..." readonly></textarea>
+    </div>
+  </div>
+
+  <script>
+    let dictionary = {};
+    let reverseDictionary = {};
+
+    fetch('dictionary.json')
+      .then(response => response.json())
+      .then(data => {
+        dictionary = data;
+        reverseDictionary = Object.fromEntries(
+          Object.entries(data).map(([key, value]) => [value.toLowerCase(), key])
+        );
+        translate(); // Initial translation
+      })
+      .catch(error => {
+        document.getElementById('outputText').value = 'Error loading dictionary.';
+        console.error(error);
+      });
+
+    function translate() {
+      const input = document.getElementById('inputText').value.toLowerCase();
+      const direction = document.getElementById('direction').value;
+      const words = input.trim().split(/\s+/);
+
+      let translated;
+      if (direction === 'fictional-to-english') {
+        translated = words.map(word => dictionary[word] || `[${word}]`);
+      } else {
+        translated = words.map(word => reverseDictionary[word] || `[${word}]`);
+      }
+
+      document.getElementById('outputText').value = translated.join(' ');
+    }
+  </script>
+</body>
+</html>
