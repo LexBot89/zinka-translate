@@ -247,4 +247,97 @@
   "vloop": "but",
   "tip": "truth",
   "tip-zik": "truly"
+  "noonip": "none",
+  "alip": "all",
+
+  "vore": "more",
+  "vore-zik": "increased",
+  "vore-florpi": "increase",
+  "his-vore-florpi": "increased",
+  "vore-florpi-viris": "will increase",
+
+  "lesp": "less",
+  "lesp-zik": "reduced",
+  "lesp-florpi": "reduce",
+  "his-lesp-florpi": "reduced",
+  "lesp-florpi-viris": "will reduce",
+
+  "zonka": "where",
+  "zenka": "when",
+  "zumka": "why",
+
+  "zeep": "then",
+
+  "withip": "with",
+
+  "smoli": "smallness",
+  "smoli-zik": "small",
+  "smoli-florpi": "shrink",
+  "his-smoli-florpi": "shrunk",
+  "smoli-florpi-viris": "will shrink",
+
+  "hip-zik": "hot",
+  "colip-zik": "cold",
+
+  "dorpak": "slowness",
+  "dorpak-zik": "slow",
+  "dorpak-florpi": "slow down",
+  "his-dorpak-florpi": "slowed",
+  "dorpak-florpi-viris": "will slow",
+
+  "butiful": "beauty",
+  "butiful-zik": "beautiful",
+  "butiful-florpi": "beautify",
+  "his-butiful-florpi": "beautified",
+  "butiful-florpi-viris": "will beautify",
+
+  "ugleep": "ugliness",
+  "ugleep-zik": "ugly",
+  "ugleep-florpi": "uglify",
+  "his-ugleep-florpi": "uglified",
+  "ugleep-florpi-viris": "will uglify",
+
+  "tingping": "thing",
+
+  "gipip": "gift",
+  "gipip-zik": "given",
+  "gipip-florpi": "give",
+  "his-gipip-florpi": "gave",
+  "gipip-florpi-viris": "will give",
+
+  "lovleep": "love",
+  "lovleep-zik": "loved",
+  "lovleep-florpi": "love",
+  "his-lovleep-florpi": "loved",
+  "lovleep-florpi-viris": "will love",
+
+  "sizi": "sight",
+  "sizi-zik": "seen",
+  "sizi-florpi": "see",
+  "his-sizi-florpi": "saw",
+  "sizi-florpi-viris": "will see",
+
+  "glorp": "movement",
+  "glorp-zik": "moving",
+  "glorp-florpi": "go",
+  "his-glorp-florpi": "went",
+  "glorp-florpi-viris": "will go",
+
+  "znov": "knowledge",
+  "znov-zik": "known",
+  "znov-florpi": "know",
+  "his-znov-florpi": "knew",
+  "znov-florpi-viris": "will know",
+
+  "meekip": "creation",
+  "meekip-zik": "made",
+  "meekip-florpi": "make",
+  "his-meekip-florpi": "made",
+  "meekip-florpi-viris": "will make",
+
+  "rakkip": "enemy",
+  "rakkip-zik": "hostile",
+  "rakkip-florpi": "oppose",
+  "his-rakkip-florpi": "opposed",
+  "rakkip-florpi-viris": "will oppose"
 }
