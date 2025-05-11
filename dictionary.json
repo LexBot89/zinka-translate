@@ -140,7 +140,7 @@
   "zorpaa-florpi": "to weird",
   "his-zorpaa-florpi": "weirded",
   "zorpaa-florpi-viris": "will weird",
-
+  
   "bigi": "bigness",
   "bigi-zik": "big",
   "bigi-florpi": "to enlarge",
@@ -151,15 +151,20 @@
   "yoho-florpi": "to be happy",
   "his-yoho-florpi": "was happy",
   "yoho-florpi-viris": "will be happy",
-
+  "watitur": "water",
+  "zooopiktik": "drink",
+  "zooopiktik-zik": "drunk",
+  "zooopiktik-florpi": "drink",
+  "his-zooopiktik-florpi": "drank",
+  "zooopiktik-florpi-viris": "will drink",
   "nooho": "sadness",
   "nooho-zik": "sad",
   "nooho-florpi": "be sad",
   "his-nooho-florpi": "was sad",
   "nooho-florpi-viris": "will be sad",
-
+  "if": "pif",
   "minitip": "minute",
-
+  "latitup": "later",
   "prolip": "problem",
   "prolip-zik": "problematic",
   "prolip-florpi": "to problematize",
@@ -167,7 +172,9 @@
   "prolip-florpi-viris": "will problematize",
   "zinka": "who",
   "zerp": "to",
-
+  "tudid": "today",
+  "did": "day",
+  "nitzi": "night",
   "mip": "I",
   "mip-zik": "my",
   "mip-florpi": "to self",
