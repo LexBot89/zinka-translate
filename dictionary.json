@@ -94,14 +94,14 @@
   "kippip-florpi-viris": "will die",
 
   "musip": "obligation",
-  "musip-zik": "obligated",
-  "musip-florpi": "to be obligated",
+  "musip-zik": "are obligated",
+  "musip-florpi": "obligated",
   "his-musip-florpi": "was obligated",
   "musip-florpi-viris": "will be obligated",
 
   "nidus": "need",
   "nidus-zik": "needed",
-  "nidus-florpi": "to need",
+  "nidus-florpi": "need",
   "his-nidus-florpi": "needed",
   "nidus-florpi-viris": "will need",
 
@@ -113,13 +113,13 @@
 
   "sprechip": "speech",
   "sprechip-zik": "spoken",
-  "sprechip-florpi": "to speak",
+  "sprechip-florpi": "speak",
   "his-sprechip-florpi": "spoke",
   "sprechip-florpi-viris": "will speak",
 
   "understandip": "understanding",
   "understandip-zik": "understood",
-  "understandip-florpi": "to understand",
+  "understandip-florpi": "understand",
   "his-understandip-florpi": "understood",
   "understandip-florpi-viris": "will understand",
 
@@ -178,7 +178,7 @@
 
   "nooho": "sadness",
   "nooho-zik": "sad",
-  "nooho-florpi": "to be sad",
+  "nooho-florpi": "be sad",
   "his-nooho-florpi": "was sad",
   "nooho-florpi-viris": "will be sad",
 
@@ -227,13 +227,17 @@
   "wip-florpi": "to us",
   "his-wip-florpi": "were us",
   "wip-florpi-viris": "will be us",
-
+  "pleep": "tear",
+  "pleep-florpi": "cry",
+  "his-pleep-florpi": "cried",
+  "pleep-florpi-viris": "will cry",
+  "pleep - fur": "truth",
   "kugip": "yall",
   "kugip-zik": "yall's",
   "kugip-florpi": "to you all",
   "his-kugip-florpi": "were you all",
   "kugip-florpi-viris": "will be you all",
-
+  "verpa": "word",
   "thip": "they",
   "thip-zik": "their",
   "thip-florpi": "to them",
