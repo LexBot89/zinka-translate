@@ -168,5 +168,75 @@
   "bigi-zik": "big",
   "bigi-florpi": "to enlarge",
   "his-bigi-florpi": "enlarged",
-  "bigi-florpi-viris": "will enlarge"
+  "bigi-florpi-viris": "will enlarge",
+  "yoho": "happiness",
+  "yoho-zik": "happy",
+  "yoho-florpi": "to be happy",
+  "his-yoho-florpi": "was happy",
+  "yoho-florpi-viris": "will be happy",
+
+  "nooho": "sadness",
+  "nooho-zik": "sad",
+  "nooho-florpi": "to be sad",
+  "his-nooho-florpi": "was sad",
+  "nooho-florpi-viris": "will be sad",
+
+  "minitip": "minute",
+
+  "prolip": "problem",
+  "prolip-zik": "problematic",
+  "prolip-florpi": "to problematize",
+  "his-prolip-florpi": "problematized",
+  "prolip-florpi-viris": "will problematize",
+  "zinka": "who",
+  "zerp": "to",
+
+  "mip": "I / me",
+  "mip-zik": "my",
+  "mip-florpi": "to self",
+  "his-mip-florpi": "was self",
+  "mip-florpi-viris": "will be self",
+
+  "ku": "you",
+  "ku-zik": "your",
+  "ku-florpi": "to you",
+  "his-ku-florpi": "were you",
+  "ku-florpi-viris": "will be you",
+
+  "hip": "he",
+  "hip-zik": "his",
+  "hip-florpi": "to him",
+  "his-hip-florpi": "was him",
+  "hip-florpi-viris": "will be him",
+
+  "shep": "she",
+  "shep-zik": "her",
+  "shep-florpi": "to her",
+  "his-shep-florpi": "was her",
+  "shep-florpi-viris": "will be her",
+
+  "zip": "it",
+  "zip-zik": "its",
+  "zip-florpi": "to it",
+  "his-zip-florpi": "was it",
+  "zip-florpi-viris": "will be it",
+
+  "wip": "we",
+  "wip-zik": "our",
+  "wip-florpi": "to us",
+  "his-wip-florpi": "were us",
+  "wip-florpi-viris": "will be us",
+
+  "kugip": "yall",
+  "kugip-zik": "yall's",
+  "kugip-florpi": "to you all",
+  "his-kugip-florpi": "were you all",
+  "kugip-florpi-viris": "will be you all",
+
+  "thip": "they",
+  "thip-zik": "their",
+  "thip-florpi": "to them",
+  "his-thip-florpi": "were them",
+  "thip-florpi-viris": "will be them"
+  "nuzip": "now"
 }
